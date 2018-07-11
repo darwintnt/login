@@ -1,0 +1,50 @@
+.font-image {
+	height: 100vh;
+	background-image: url("../img/pexels-photo-258163.jpeg");
+	background-repeat: no-repeat;	
+	background-size: cover;
+}
+
+.font-overlay {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	background-color: rgba(37, 111, 157, .7);
+}
+
+.form-login {
+	width: 430px;
+	height: 400px;
+	background-color: rgba(37, 111, 157, .8);
+}
+
+.font-logo {
+	text-align: center;
+	margin: 20px;
+}
+
+.logo {
+	width: 230px;
+}
+
+.input-icon {
+    margin-top: 13px;
+    margin-left: 8px;
+}
+
+.color-link:link {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.title {
+	text-align: center;
+	color: #FFF;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0;
+}
+
+label {
+	color: #FFF;
+}
